@@ -1,4 +1,4 @@
-# PyGoogleAnalytics{'country': 'DE', 'currency': 'EURO','exchange_rate': 1, 'view_id': '0000000'} 
+# PyGoogleAnalytics
 Fetch data from Google Analytics through Python
 
 # Installation
