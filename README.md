@@ -3,9 +3,9 @@ Fetch data from Google Analytics through Python
 
 # Installation
 1. pip install virtualenv <br/>
-2. virtualenv <your-env-name>  <br/>
-3. <your-env-name>\Scripts\activate  <br/>
-4. <your-env-name>\Scripts\pip.exe install google-api-python-client  <br/>
+2. virtualenv 'your-env-name'  <br/>
+3. 'your-env-name'\Scripts\activate  <br/>
+4. 'your-env-name'\Scripts\pip.exe install google-api-python-client  <br/>
 5. pip install --upgrade google-api-python-client  <br/>
 6. pip install --upgrade oauth2client  <br/>
   
